@@ -1,0 +1,12 @@
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\bin\Debug\Pila y Cola.exe.config
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\bin\Debug\Pila y Cola.exe
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\bin\Debug\Pila y Cola.pdb
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\obj\Debug\Pila y Cola.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\obj\Debug\Pila_y_Cola.Form1.resources
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\obj\Debug\Pila_y_Cola.Properties.Resources.resources
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\obj\Debug\Pila y Cola.csproj.GenerateResource.Cache
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\obj\Debug\Pila y Cola.exe
+C:\Users\Sergio\AppData\Local\Temporary Projects\Pila y Cola\obj\Debug\Pila y Cola.pdb
+C:\Users\Sergio\Desktop\tarea 1\Pila y Cola\Pila y Cola\bin\Debug\Pila y Cola.exe.config
+C:\Users\Sergio\Desktop\tarea 1\Pila y Cola\Pila y Cola\obj\Debug\Pila y Cola.exe
+C:\Users\Sergio\Desktop\tarea 1\Pila y Cola\Pila y Cola\obj\Debug\Pila y Cola.pdb
